@@ -1,6 +1,6 @@
 # 🚐 GoGoTrans Travel
 
-![GoGoTrans Banner]("laragon/www/GoGoTrans/assets/images/logo2.jpeg")
+![GoGoTrans Banner]("assets/images/logo2.jpeg")
 
 > **"Buat Perjalanan Kalian, Lebih Berkesan"**
 
