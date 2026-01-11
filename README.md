@@ -1,6 +1,6 @@
 # 🚐 GoGoTrans Travel
 
-![GoGoTrans Banner](assets/logo2.jpg)
+![GoGoTrans Banner](GoGoTrans/assets/logo2.jpg)
 
 > **"Buat Perjalanan Kalian, Lebih Berkesan"**
 
